@@ -1,5 +1,5 @@
 # Linear-Regression-Project
-Individual Project under prof. R.A.
+Individual Project under prof. R.A. (Python)
 
 Jupyter Notebook contains Linear Algebra theory and Python Implementation of explored methods + explanation/description/comments (russian).
 
